@@ -1,0 +1,59 @@
+.aa{
+    background-color:lavender;
+    font-size: 15px;
+    border-radius: 40px;
+    
+}
+
+
+ #profilesummary{
+    padding :5vw;
+    margin-top: 2vw;
+ }   
+
+.ps{
+    background-color:lavender;
+    font-size: 15px;
+    /* margin-top: -21px; */
+    border-radius: 20px;
+}
+.edu{
+    background-color: lavender;
+    /* margin-top:-21px; */
+    border-radius: 20px;
+}
+.prj{
+    background-color:lavender;
+    font-size: 15px;
+    /* margin-top:-20px; */
+    border-radius: 20px;
+}
+.skill{
+    background-color: lavender;
+    /* margin-top: -20px; */
+    border-radius: 20px;
+}
+.navbar1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:lavender;
+    text-decoration: none;
+    justify-content: center;
+    gap: 70px;
+    border-radius: 20px;
+    margin-top: 3vh;
+}
+.nv{
+    text-decoration: none;
+  
+}
+.nv1{
+    background-color: lightgrey;
+    width: 10vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
