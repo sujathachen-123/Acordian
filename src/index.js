@@ -6,7 +6,7 @@ import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Tables from './Tables.js';
-// import Cards from './practice.js/practice1.js'
+import Cards from './practice.js/practice1.js'
 // import ConditionalRend from './practice.js/nov28.js'
 // import MainComp from './practice.js/parent.js';
 // import Fakestorecards from './practice.js/nov22.js'
@@ -22,7 +22,7 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Tables/>
-    {/* // <Cards/> */}
+    // <Cards/>
     {/* <Fakestorecards/> */}
     {/* <Fakestoretables/> */}
     {/* // <Resume/> */}
