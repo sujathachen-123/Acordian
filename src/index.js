@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
-// import Tables from './Tables.js';
+import Tables from './Tables.js';
 // import Cards from './practice.js/practice1.js'
 // import ConditionalRend from './practice.js/nov28.js'
 // import MainComp from './practice.js/parent.js';
@@ -21,7 +21,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-    {/* <Tables/> */}
+    <Tables/>
     {/* // <Cards/> */}
     {/* <Fakestorecards/> */}
     {/* <Fakestoretables/> */}
